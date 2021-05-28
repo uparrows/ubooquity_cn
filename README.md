@@ -2,7 +2,7 @@
 
 ## 简介
 
-这是漫画小说服务器ubooquity的汉化版本，你可以将该软件部署在你的nas上面，用以管理你的漫画和小说，支持cbz zip cbr rar epub mobi等常见格式，原版软件为英文版，由本人汉化并打包制作docker版本，并汉化手机客户端，手机客户端可在软件的关于选项卡下载，原作者已停止更新。
+这是漫画小说服务器ubooquity的汉化版本，你可以将该软件部署在你的nas上面，用以管理你的漫画和小说，支持cbz zip cbr rar epub mobi等常见格式，原版软件为英文版，由本人汉化并打包制作docker版本，并且编写了dockerfile，主要是解决在各种nas上面的权限问题，并且汉化手机客户端，手机客户端可在软件的关于选项卡下载，原作者已停止更新。
 
 [<img src="https://img.shields.io/docker/pulls/dezhao/ubooquity.svg">](https://hub.docker.com/r/dezhao/ubooquity/)
 
